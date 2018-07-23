@@ -27,7 +27,7 @@ public class TestUserService {
     @Test
     public void testInsertUser(){
         User user = new User();
-        user.setUserNum("1231231");
+        user.setUserNum("wwwww");
         user.setUserName("admin");
         user.setAge(23);
         user.setPassword("adf23");
